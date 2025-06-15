@@ -1,4 +1,4 @@
-# 🤖 DIBYA'S SUPER POWERFUL AI VOICE ASSISTANT 🚀
+# 🤖 DIBYA'S SUPER POWERFUL ROBO AI VOICE ASSISTANT 🚀
 
 Welcome to *Dibya's Robo Voice Assistant* — a personal, intelligent, voice-and-text based assistant powered by Python and AI 🧠🎤. This assistant not only listens and speaks but also performs smart tasks on command — just like your own J.A.R.V.I.S! 💻✨
 
@@ -9,6 +9,7 @@ Welcome to *Dibya's Robo Voice Assistant* — a personal, intelligent, voice-and
 ✅ Understands both *voice and text input*  
 ✅ Opens common web apps like:
    - YouTube 🎥
+   - GOOGLE 
    - WhatsApp 💬
    - Google 🌍
    - LinkedIn 👔
@@ -120,7 +121,7 @@ Robot animation can be changed using .gif inside the GUI.
 
 🚀 Dibya Jyoti Mishra
 
-🎓 B.Sc. in Computer Science | AI/ML Developer | GenAI Enthusiast
+🎓 B.Sc. in Computer Science | AI/ML Developer | GenAI Enthusiast | NLP learner 
 📫 Email: dibyajyotilikun8@gmail.com
 🔗 LinkedIn | 💻 GitHub
 
@@ -152,3 +153,4 @@ Android version using Kivy or React Native 📱
 ---
 
 ⭐ If you like this project, give it a star ⭐ and feel free to fork or contribute!
+Iam open to collaborate any body who belives in AI and these kind of new technology field era.
